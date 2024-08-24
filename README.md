@@ -1,0 +1,2 @@
+# Magazin-Only
+magazin only 
